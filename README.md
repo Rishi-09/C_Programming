@@ -4,8 +4,6 @@
 What's Inside?
 
   1. Basics:
-
-  Understanding the structure of a C program.
   Variables, data types, constants, and keywords.
   Input/output operations using scanf and printf.
   Control structures: if-else, switch, loops (for, while, do-while).
